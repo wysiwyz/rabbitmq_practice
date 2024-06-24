@@ -7,3 +7,6 @@
 中期：能夠比較 RabbitMQ v.s. Kafka
 
 長期：可以在 K8s 上操作 RabbitMQ
+
+## 1. Hello World
+[Hello world - Java](https://www.rabbitmq.com/tutorials/tutorial-one-java)
